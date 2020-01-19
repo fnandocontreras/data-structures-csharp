@@ -1,2 +1,2 @@
 # data-structures-csharp
-Data Structures and algorithm implementations
+This repository is intended to contain popular Data Structures and algorithms implementations useful in real life computational problems
